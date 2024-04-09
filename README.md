@@ -1,4 +1,5 @@
 # Randomizer
 
-prints random lines from text files
-usage: randomizer [filename] [number of lines to print]
+Prints random lines from text files.
+
+Usage: randomizer [filename] [number of lines to print]
